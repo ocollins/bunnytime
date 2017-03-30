@@ -1,3 +1,5 @@
+import org.apache.log4j.Logger;
+
 import java.util.Date;
 
 /**
@@ -8,10 +10,14 @@ public class Bunny implements Runnable{
     Date inTime;
 
     House house;
+    private final Logger logger = Logger.getLogger(this.getClass());
 
-    public Customer(House house)
+    public Bunny(House house)
     {
         this.house = house;
+    }
+
+    public Bunny() {
     }
 
     public String getName() {
@@ -32,9 +38,11 @@ public class Bunny implements Runnable{
 
     public void run()
     {
-        goForHairCut();
+
+        goToRileysHouse();
     }
-    private synchronized void goForHairCut()
+
+    private synchronized void goToRileysHouse()
     {
         house.add(this);
     }

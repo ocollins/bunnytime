@@ -1,3 +1,4 @@
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
@@ -16,18 +17,19 @@ public class House {
     {
         maxBunnies = 10;
         listBunny = new LinkedList<Bunny>();
+        //listBunny = Collections.synchronizedList(new LinkedList<Bunny>());
     }
 
-    public void cutHair()
+    public void receiveEggs()
     {
         Bunny Bunny;
-        System.out.println("Riley is waiting for bunnies.");
+        logger.info("Riley is waiting for bunnies.");
         synchronized (listBunny)
         {
 
             while(listBunny.size()==0)
             {
-                System.out.println("Riley is waiting for Bunny.");
+                logger.info("Riley is waiting for Bunny.");
                 try
                 {
                     listBunny.wait();
@@ -37,13 +39,13 @@ public class House {
                     iex.printStackTrace();
                 }
             }
-            System.out.println("Riley found a Bunny in the queue.");
+            logger.info("Riley found a Bunny by the door.");
             Bunny = (Bunny)((LinkedList<?>)listBunny).poll();
         }
         long duration=0;
         try
         {
-            System.out.println("Cuting hair of Bunny : "+Bunny.getName());
+            logger.info("Getting an egg from Bunny : " + Bunny.getName());
             duration = (long)(Math.random()*10);
             TimeUnit.SECONDS.sleep(duration);
         }
@@ -51,24 +53,24 @@ public class House {
         {
             iex.printStackTrace();
         }
-        System.out.println("Completed Cuting hair of Bunny : "+Bunny.getName() + " in "+duration+ " seconds.");
+        logger.info("Done getting an egg from Bunny : "+Bunny.getName() + " in "+duration+ " seconds.");
     }
 
     public void add(Bunny Bunny)
     {
-        System.out.println("Bunny : "+Bunny.getName()+ " entering the shop at "+Bunny.getInTime());
+        logger.info("Bunny : "+Bunny.getName()+ " getting to Riley's door at "+Bunny.getInTime());
 
         synchronized (listBunny)
         {
             if(listBunny.size() == maxBunnies)
             {
-                System.out.println("No chair available for Bunny "+Bunny.getName());
-                System.out.println("Bunny "+Bunny.getName()+"Exists...");
+                logger.info("Too many bunnies at the door. Bunny "+Bunny.getName() + " will have to come back");
+                logger.info("Bunny "+Bunny.getName()+"Exists...");
                 return ;
             }
 
             ((LinkedList<Bunny>)listBunny).offer(Bunny);
-            System.out.println("Bunny : "+Bunny.getName()+ " got the chair.");
+            logger.info("Bunny : "+Bunny.getName()+ " is waiting for other bunnies.");
 
             if(listBunny.size()==1)
                 listBunny.notify();
