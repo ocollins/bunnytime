@@ -1,1 +1,238 @@
 2017-03-30 12:45:03,766 0    [main] INFO  BunnyTest  - Easter early morning 12:45:03.535
+2017-03-30 16:50:42,732 0    [main] INFO  BunnyTest  - Easter early morning 16:50:42.629
+2017-03-30 16:52:04,185 0    [main] INFO  RunBunnies  - Running bunnies from the main method
+2017-03-30 16:52:04,191 6    [Thread-2] INFO  House  - Bunny : Bunny Thread 12 getting to Riley's door at Thu Mar 30 16:52:04 CDT 2017
+2017-03-30 16:52:04,191 6    [Thread-2] INFO  House  - Bunny : Bunny Thread 12 is waiting for other bunnies.
+2017-03-30 16:52:13,192 9007 [Thread-3] INFO  House  - Bunny : Bunny Thread 13 getting to Riley's door at Thu Mar 30 16:52:13 CDT 2017
+2017-03-30 16:52:13,193 9008 [Thread-3] INFO  House  - Bunny : Bunny Thread 13 is waiting for other bunnies.
+2017-03-30 16:52:14,188 10003 [Thread-0] INFO  Riley  - Riley is ready for bunnies
+2017-03-30 16:52:14,189 10004 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:52:14,189 10004 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:52:14,190 10005 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 12
+2017-03-30 16:52:14,191 10006 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 12 in 0 seconds.
+2017-03-30 16:52:14,191 10006 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:52:14,192 10007 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:52:14,192 10007 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 13
+2017-03-30 16:52:18,112 13927 [Thread-4] INFO  House  - Bunny : Bunny Thread 14 getting to Riley's door at Thu Mar 30 16:52:18 CDT 2017
+2017-03-30 16:52:18,112 13927 [Thread-4] INFO  House  - Bunny : Bunny Thread 14 is waiting for other bunnies.
+2017-03-30 16:52:19,112 14927 [Thread-5] INFO  House  - Bunny : Bunny Thread 15 getting to Riley's door at Thu Mar 30 16:52:19 CDT 2017
+2017-03-30 16:52:19,113 14928 [Thread-5] INFO  House  - Bunny : Bunny Thread 15 is waiting for other bunnies.
+2017-03-30 16:52:20,104 15919 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 13 in 5 seconds.
+2017-03-30 16:52:20,105 15920 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:52:20,107 15922 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:52:20,107 15922 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 14
+2017-03-30 16:52:21,112 16927 [Thread-6] INFO  House  - Bunny : Bunny Thread 16 getting to Riley's door at Thu Mar 30 16:52:21 CDT 2017
+2017-03-30 16:52:21,114 16929 [Thread-6] INFO  House  - Bunny : Bunny Thread 16 is waiting for other bunnies.
+2017-03-30 16:52:28,108 23923 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 14 in 8 seconds.
+2017-03-30 16:52:28,108 23923 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:52:28,109 23924 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:52:28,109 23924 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 15
+2017-03-30 16:52:28,112 23927 [Thread-7] INFO  House  - Bunny : Bunny Thread 17 getting to Riley's door at Thu Mar 30 16:52:28 CDT 2017
+2017-03-30 16:52:28,116 23931 [Thread-7] INFO  House  - Bunny : Bunny Thread 17 is waiting for other bunnies.
+2017-03-30 16:52:36,110 31925 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 15 in 8 seconds.
+2017-03-30 16:52:36,111 31926 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:52:36,111 31926 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:52:36,112 31927 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 16
+2017-03-30 16:52:36,165 31980 [Thread-8] INFO  House  - Bunny : Bunny Thread 18 getting to Riley's door at Thu Mar 30 16:52:36 CDT 2017
+2017-03-30 16:52:36,168 31983 [Thread-8] INFO  House  - Bunny : Bunny Thread 18 is waiting for other bunnies.
+2017-03-30 16:52:42,115 37930 [Thread-9] INFO  House  - Bunny : Bunny Thread 19 getting to Riley's door at Thu Mar 30 16:52:42 CDT 2017
+2017-03-30 16:52:42,117 37932 [Thread-9] INFO  House  - Bunny : Bunny Thread 19 is waiting for other bunnies.
+2017-03-30 16:52:44,114 39929 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 16 in 8 seconds.
+2017-03-30 16:52:44,115 39930 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:52:44,115 39930 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:52:44,115 39930 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 17
+2017-03-30 16:52:45,118 40933 [Thread-10] INFO  House  - Bunny : Bunny Thread 20 getting to Riley's door at Thu Mar 30 16:52:45 CDT 2017
+2017-03-30 16:52:45,119 40934 [Thread-10] INFO  House  - Bunny : Bunny Thread 20 is waiting for other bunnies.
+2017-03-30 16:52:46,116 41931 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 17 in 2 seconds.
+2017-03-30 16:52:46,117 41932 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:52:46,117 41932 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:52:46,118 41933 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 18
+2017-03-30 16:52:54,040 49855 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 18 in 7 seconds.
+2017-03-30 16:52:54,041 49856 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:52:54,041 49856 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:52:54,042 49857 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 19
+2017-03-30 16:52:55,083 50898 [Thread-11] INFO  House  - Bunny : Bunny Thread 21 getting to Riley's door at Thu Mar 30 16:52:55 CDT 2017
+2017-03-30 16:52:55,084 50899 [Thread-11] INFO  House  - Bunny : Bunny Thread 21 is waiting for other bunnies.
+2017-03-30 16:53:03,042 58857 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 19 in 9 seconds.
+2017-03-30 16:53:03,043 58858 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:03,043 58858 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:03,044 58859 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 20
+2017-03-30 16:53:04,043 59858 [Thread-12] INFO  House  - Bunny : Bunny Thread 22 getting to Riley's door at Thu Mar 30 16:53:04 CDT 2017
+2017-03-30 16:53:04,044 59859 [Thread-12] INFO  House  - Bunny : Bunny Thread 22 is waiting for other bunnies.
+2017-03-30 16:53:11,046 66861 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 20 in 8 seconds.
+2017-03-30 16:53:11,046 66861 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:11,046 66861 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:11,046 66861 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 21
+2017-03-30 16:53:11,047 66862 [Thread-13] INFO  House  - Bunny : Bunny Thread 23 getting to Riley's door at Thu Mar 30 16:53:11 CDT 2017
+2017-03-30 16:53:11,048 66863 [Thread-13] INFO  House  - Bunny : Bunny Thread 23 is waiting for other bunnies.
+2017-03-30 16:53:18,047 73862 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 21 in 7 seconds.
+2017-03-30 16:53:18,048 73863 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:18,049 73864 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:18,049 73864 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 22
+2017-03-30 16:53:19,049 74864 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 22 in 1 seconds.
+2017-03-30 16:53:19,050 74865 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:19,052 74867 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:19,052 74867 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 23
+2017-03-30 16:53:19,097 74912 [Thread-14] INFO  House  - Bunny : Bunny Thread 24 getting to Riley's door at Thu Mar 30 16:53:19 CDT 2017
+2017-03-30 16:53:19,098 74913 [Thread-14] INFO  House  - Bunny : Bunny Thread 24 is waiting for other bunnies.
+2017-03-30 16:53:22,053 77868 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 23 in 3 seconds.
+2017-03-30 16:53:22,054 77869 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:22,055 77870 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:22,055 77870 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 24
+2017-03-30 16:53:23,957 79772 [Thread-15] INFO  House  - Bunny : Bunny Thread 25 getting to Riley's door at Thu Mar 30 16:53:23 CDT 2017
+2017-03-30 16:53:23,959 79774 [Thread-15] INFO  House  - Bunny : Bunny Thread 25 is waiting for other bunnies.
+2017-03-30 16:53:23,963 79778 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 24 in 1 seconds.
+2017-03-30 16:53:23,963 79778 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:23,964 79779 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:23,964 79779 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 25
+2017-03-30 16:53:25,959 81774 [Thread-16] INFO  House  - Bunny : Bunny Thread 26 getting to Riley's door at Thu Mar 30 16:53:25 CDT 2017
+2017-03-30 16:53:25,962 81777 [Thread-16] INFO  House  - Bunny : Bunny Thread 26 is waiting for other bunnies.
+2017-03-30 16:53:28,964 84779 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 25 in 5 seconds.
+2017-03-30 16:53:28,965 84780 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:28,965 84780 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:28,965 84780 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 26
+2017-03-30 16:53:30,006 85821 [Thread-17] INFO  House  - Bunny : Bunny Thread 27 getting to Riley's door at Thu Mar 30 16:53:29 CDT 2017
+2017-03-30 16:53:30,007 85822 [Thread-17] INFO  House  - Bunny : Bunny Thread 27 is waiting for other bunnies.
+2017-03-30 16:53:35,961 91776 [Thread-18] INFO  House  - Bunny : Bunny Thread 28 getting to Riley's door at Thu Mar 30 16:53:35 CDT 2017
+2017-03-30 16:53:35,961 91776 [Thread-18] INFO  House  - Bunny : Bunny Thread 28 is waiting for other bunnies.
+2017-03-30 16:53:35,966 91781 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 26 in 7 seconds.
+2017-03-30 16:53:35,966 91781 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:35,966 91781 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:35,966 91781 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 27
+2017-03-30 16:53:42,968 98783 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 27 in 7 seconds.
+2017-03-30 16:53:42,968 98783 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:42,969 98784 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:42,969 98784 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 28
+2017-03-30 16:53:43,962 99777 [Thread-19] INFO  House  - Bunny : Bunny Thread 29 getting to Riley's door at Thu Mar 30 16:53:43 CDT 2017
+2017-03-30 16:53:43,964 99779 [Thread-19] INFO  House  - Bunny : Bunny Thread 29 is waiting for other bunnies.
+2017-03-30 16:53:44,970 100785 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 28 in 2 seconds.
+2017-03-30 16:53:44,971 100786 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:44,971 100786 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:44,972 100787 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 29
+2017-03-30 16:53:47,977 103792 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 29 in 3 seconds.
+2017-03-30 16:53:47,977 103792 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:47,977 103792 [Thread-0] INFO  House  - Riley is waiting for Bunny.
+2017-03-30 16:53:52,036 107851 [Thread-20] INFO  House  - Bunny : Bunny Thread 30 getting to Riley's door at Thu Mar 30 16:53:51 CDT 2017
+2017-03-30 16:53:52,039 107854 [Thread-20] INFO  House  - Bunny : Bunny Thread 30 is waiting for other bunnies.
+2017-03-30 16:53:52,051 107866 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:52,051 107866 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 30
+2017-03-30 16:53:52,052 107867 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 30 in 0 seconds.
+2017-03-30 16:53:52,052 107867 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:52,052 107867 [Thread-0] INFO  House  - Riley is waiting for Bunny.
+2017-03-30 16:53:53,966 109781 [Thread-21] INFO  House  - Bunny : Bunny Thread 31 getting to Riley's door at Thu Mar 30 16:53:53 CDT 2017
+2017-03-30 16:53:53,967 109782 [Thread-21] INFO  House  - Bunny : Bunny Thread 31 is waiting for other bunnies.
+2017-03-30 16:53:53,968 109783 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:53:53,968 109783 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 31
+2017-03-30 16:53:55,968 111783 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 31 in 2 seconds.
+2017-03-30 16:53:55,969 111784 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:53:55,969 111784 [Thread-0] INFO  House  - Riley is waiting for Bunny.
+2017-03-30 16:54:02,890 118705 [Thread-22] INFO  House  - Bunny : Bunny Thread 32 getting to Riley's door at Thu Mar 30 16:54:02 CDT 2017
+2017-03-30 16:54:02,896 118711 [Thread-22] INFO  House  - Bunny : Bunny Thread 32 is waiting for other bunnies.
+2017-03-30 16:54:02,897 118712 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:54:02,898 118713 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 32
+2017-03-30 16:54:02,938 118753 [Thread-23] INFO  House  - Bunny : Bunny Thread 33 getting to Riley's door at Thu Mar 30 16:54:02 CDT 2017
+2017-03-30 16:54:02,938 118753 [Thread-23] INFO  House  - Bunny : Bunny Thread 33 is waiting for other bunnies.
+2017-03-30 16:54:08,899 124714 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 32 in 6 seconds.
+2017-03-30 16:54:08,900 124715 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:54:08,900 124715 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:54:08,900 124715 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 33
+2017-03-30 16:54:11,893 127708 [Thread-24] INFO  House  - Bunny : Bunny Thread 34 getting to Riley's door at Thu Mar 30 16:54:11 CDT 2017
+2017-03-30 16:54:11,896 127711 [Thread-24] INFO  House  - Bunny : Bunny Thread 34 is waiting for other bunnies.
+2017-03-30 16:54:16,901 132716 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny Thread 33 in 8 seconds.
+2017-03-30 16:54:16,901 132716 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 16:54:16,902 132717 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 16:54:16,902 132717 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny Thread 34
+2017-03-30 17:07:24,081 0    [main] INFO  RunBunnies  - Early morning on Easter Sunday 17:07:23.925
+2017-03-30 17:07:24,092 11   [Thread-0] INFO  Riley  - Riley is watching TV and waiting for bunnies
+2017-03-30 17:07:24,100 19   [Thread-2] INFO  House  - Bunny : Bunny 12 getting to Riley's door at Thu Mar 30 17:07:24 CDT 2017
+2017-03-30 17:07:24,101 20   [Thread-2] INFO  House  - Bunny : Bunny 12 is waiting for other bunnies.
+2017-03-30 17:07:31,095 7014 [Thread-3] INFO  House  - Bunny : Bunny 13 getting to Riley's door at Thu Mar 30 17:07:31 CDT 2017
+2017-03-30 17:07:31,097 7016 [Thread-3] INFO  House  - Bunny : Bunny 13 is waiting for other bunnies.
+2017-03-30 17:07:33,095 9014 [Thread-4] INFO  House  - Bunny : Bunny 14 getting to Riley's door at Thu Mar 30 17:07:33 CDT 2017
+2017-03-30 17:07:33,096 9015 [Thread-4] INFO  House  - Bunny : Bunny 14 is waiting for other bunnies.
+2017-03-30 17:07:34,092 10011 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:07:34,095 10014 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:07:34,096 10015 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 12
+2017-03-30 17:07:35,097 11016 [Thread-5] INFO  House  - Bunny : Bunny 15 getting to Riley's door at Thu Mar 30 17:07:35 CDT 2017
+2017-03-30 17:07:35,099 11018 [Thread-5] INFO  House  - Bunny : Bunny 15 is waiting for other bunnies.
+2017-03-30 17:07:41,104 17023 [Thread-6] INFO  House  - Bunny : Bunny 16 getting to Riley's door at Thu Mar 30 17:07:41 CDT 2017
+2017-03-30 17:07:41,108 17027 [Thread-6] INFO  House  - Bunny : Bunny 16 is waiting for other bunnies.
+2017-03-30 17:07:42,099 18018 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 12 in 8 seconds.
+2017-03-30 17:07:42,101 18020 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:07:42,104 18023 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:07:42,105 18024 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 13
+2017-03-30 17:07:42,112 18031 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 13 in 0 seconds.
+2017-03-30 17:07:42,115 18034 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:07:42,116 18035 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:07:42,121 18040 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 14
+2017-03-30 17:07:43,125 19044 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 14 in 1 seconds.
+2017-03-30 17:07:43,126 19045 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:07:43,126 19045 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:07:43,133 19052 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 15
+2017-03-30 17:07:44,105 20024 [Thread-7] INFO  House  - Bunny : Bunny 17 getting to Riley's door at Thu Mar 30 17:07:44 CDT 2017
+2017-03-30 17:07:44,108 20027 [Thread-7] INFO  House  - Bunny : Bunny 17 is waiting for other bunnies.
+2017-03-30 17:07:48,057 23976 [Thread-8] INFO  House  - Bunny : Bunny 18 getting to Riley's door at Thu Mar 30 17:07:48 CDT 2017
+2017-03-30 17:07:48,058 23977 [Thread-8] INFO  House  - Bunny : Bunny 18 is waiting for other bunnies.
+2017-03-30 17:07:49,064 24983 [Thread-9] INFO  House  - Bunny : Bunny 19 getting to Riley's door at Thu Mar 30 17:07:49 CDT 2017
+2017-03-30 17:07:49,066 24985 [Thread-9] INFO  House  - Bunny : Bunny 19 is waiting for other bunnies.
+2017-03-30 17:07:50,086 26005 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 15 in 6 seconds.
+2017-03-30 17:07:50,087 26006 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:07:50,088 26007 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:07:50,088 26007 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 16
+2017-03-30 17:07:51,090 27009 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 16 in 1 seconds.
+2017-03-30 17:07:51,091 27010 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:07:51,091 27010 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:07:51,092 27011 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 17
+2017-03-30 17:07:53,064 28983 [Thread-10] INFO  House  - Bunny : Bunny 20 getting to Riley's door at Thu Mar 30 17:07:53 CDT 2017
+2017-03-30 17:07:53,072 28991 [Thread-10] INFO  House  - Bunny : Bunny 20 is waiting for other bunnies.
+2017-03-30 17:07:53,070 28989 [Thread-11] INFO  House  - Bunny : Bunny 21 getting to Riley's door at Thu Mar 30 17:07:53 CDT 2017
+2017-03-30 17:07:53,076 28995 [Thread-11] INFO  House  - Bunny : Bunny 21 is waiting for other bunnies.
+2017-03-30 17:07:54,093 30012 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 17 in 3 seconds.
+2017-03-30 17:07:54,094 30013 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:07:54,095 30014 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:07:54,097 30016 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 18
+2017-03-30 17:08:00,098 36017 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 18 in 6 seconds.
+2017-03-30 17:08:00,099 36018 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:08:00,099 36018 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:08:00,099 36018 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 19
+2017-03-30 17:08:01,117 37036 [Thread-12] INFO  House  - Bunny : Bunny 22 getting to Riley's door at Thu Mar 30 17:08:01 CDT 2017
+2017-03-30 17:08:01,117 37036 [Thread-12] INFO  House  - Bunny : Bunny 22 is waiting for other bunnies.
+2017-03-30 17:08:02,101 38020 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 19 in 2 seconds.
+2017-03-30 17:08:02,102 38021 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:08:02,102 38021 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:08:02,110 38029 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 20
+2017-03-30 17:08:02,118 38037 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 20 in 0 seconds.
+2017-03-30 17:08:02,118 38037 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:08:02,119 38038 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:08:02,119 38038 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 21
+2017-03-30 17:08:05,128 41047 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 21 in 3 seconds.
+2017-03-30 17:08:05,129 41048 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:08:05,129 41048 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:08:05,129 41048 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 22
+2017-03-30 17:08:05,130 41049 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 22 in 0 seconds.
+2017-03-30 17:08:05,130 41049 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:08:05,130 41049 [Thread-0] INFO  House  - Riley is waiting for Bunny.
+2017-03-30 17:08:10,066 45985 [Thread-13] INFO  House  - Bunny : Bunny 23 getting to Riley's door at Thu Mar 30 17:08:10 CDT 2017
+2017-03-30 17:08:10,067 45986 [Thread-13] INFO  House  - Bunny : Bunny 23 is waiting for other bunnies.
+2017-03-30 17:08:10,067 45986 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:08:10,067 45986 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 23
+2017-03-30 17:08:14,069 49988 [Thread-14] INFO  House  - Bunny : Bunny 24 getting to Riley's door at Thu Mar 30 17:08:14 CDT 2017
+2017-03-30 17:08:14,071 49990 [Thread-14] INFO  House  - Bunny : Bunny 24 is waiting for other bunnies.
+2017-03-30 17:08:15,068 50987 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 23 in 5 seconds.
+2017-03-30 17:08:15,069 50988 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:08:15,069 50988 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:08:15,069 50988 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 24
+2017-03-30 17:08:17,070 52989 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 24 in 2 seconds.
+2017-03-30 17:08:17,071 52990 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:08:17,071 52990 [Thread-0] INFO  House  - Riley is waiting for Bunny.
+2017-03-30 17:08:19,089 55008 [Thread-15] INFO  House  - Bunny : Bunny 25 getting to Riley's door at Thu Mar 30 17:08:19 CDT 2017
+2017-03-30 17:08:19,090 55009 [Thread-15] INFO  House  - Bunny : Bunny 25 is waiting for other bunnies.
+2017-03-30 17:08:19,091 55010 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:08:19,091 55010 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 25
+2017-03-30 17:08:20,093 56012 [Thread-0] INFO  House  - Done getting an egg from Bunny : Bunny 25 in 1 seconds.
+2017-03-30 17:08:20,093 56012 [Thread-0] INFO  House  - Riley is waiting for bunnies.
+2017-03-30 17:08:20,094 56013 [Thread-0] INFO  House  - Riley is waiting for Bunny.
+2017-03-30 17:08:22,045 57964 [Thread-16] INFO  House  - Bunny : Bunny 26 getting to Riley's door at Thu Mar 30 17:08:22 CDT 2017
+2017-03-30 17:08:22,047 57966 [Thread-16] INFO  House  - Bunny : Bunny 26 is waiting for other bunnies.
+2017-03-30 17:08:22,047 57966 [Thread-0] INFO  House  - Riley found a Bunny by the door.
+2017-03-30 17:08:22,048 57967 [Thread-0] INFO  House  - Getting an egg from Bunny : Bunny 26

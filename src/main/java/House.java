@@ -58,7 +58,7 @@ public class House {
 
     public void add(Bunny Bunny)
     {
-        logger.info("Bunny : "+Bunny.getName()+ " getting to Riley's door at "+Bunny.getInTime());
+        logger.info("Bunny : "+Bunny.getName()+ " getting to Riley's door on "+Bunny.getInTime());
 
         synchronized (listBunny)
         {
